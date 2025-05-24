@@ -7,7 +7,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; color: white; margin: 20px 0;">
 
-**Ingeniero de Productividad y Calidad** con más de 10 años de experiencia.  **Desarrollador de software**. Full-Stack Developer | Cloud-Native Architect
+***Ingeniero de Productividad y Calidad*** con más de 10 años de experiencia.  ***Desarrollador de software***. Full-Stack Developer | Cloud-Native Architect
 
 📍 **Medellín, Colombia** | 📱 **3122809858** | ✉️ **jaialgallo@hotmail.com** | **jagallob@eafit.edu.co** 
 🌍 **Inglés B2**
