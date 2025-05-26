@@ -83,7 +83,7 @@
 
 🔹 **Logros:** Automatización de procesos manuales, mejorando tiempos de respuesta y eficiencia operativa  
 
-🔹 **Cloud:** Implementación de soluciones en Azure para clientes empresariales
+🔹 **Cloud:** Implementación de soluciones en Azure.
 
 </div>
 
