@@ -62,7 +62,6 @@
 </table>
 </div>
 ---
----
 
 ## 🏢 Experiencia Profesional
 
