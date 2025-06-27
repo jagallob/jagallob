@@ -91,7 +91,7 @@
   </div>
    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
     <h3 style="margin: 0;">🚀 Sistema de Gestión de Horas Extra</h3>
-    <a href="https://github.com/jagallob/ExtraHours.Net">
+    <a href="https://github.com/jagallob/GestorHorasExtraV1.git">
       <img src="https://img.shields.io/badge/-Ver%20Proyecto-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
     </a>
   </div>
